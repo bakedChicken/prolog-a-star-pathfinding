@@ -1,0 +1,2 @@
+echo "[main].
+main('$1')." | swipl
